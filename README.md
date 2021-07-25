@@ -2,8 +2,11 @@
 - 👀 I’m interested in Web Development, Cloud Computing, ML
 - 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on Frontend projects
- ##📫 How to reach me##
+
+- 📫 How to reach me
+ 
  Twitter https://twitter.com/yrs_rosh
+ 
  Instagram https://www.instagram.com/yrs_rosh/
  
 
